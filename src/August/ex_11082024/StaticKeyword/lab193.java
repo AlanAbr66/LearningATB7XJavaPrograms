@@ -1,6 +1,6 @@
 package August.ex_11082024.StaticKeyword;
 
-public class lab192 {
+public class lab193 {
     // Static
     // block
     // Data member
