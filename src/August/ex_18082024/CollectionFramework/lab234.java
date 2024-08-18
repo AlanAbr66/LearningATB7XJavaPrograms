@@ -19,7 +19,7 @@ public class lab234 {
         System.out.println(v);
         // Only Problem with the Vector
         // - It is Thread Safe, Synchronised.
-        // It will be time consumming
+        // It will be time-consuming
         // One by One - usage
         // Slower
 
